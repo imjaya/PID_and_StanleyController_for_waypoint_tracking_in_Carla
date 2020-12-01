@@ -19,7 +19,7 @@ CARLA 0.9.10
 python >= 3.6
 
 
-Run the following commands by placing the folder inside the PythonClient folder of CARLA
+Run the following commands by placing the folder Course1FinalProject inside the PythonClient folder of CARLA
 
 
 Inside the CARLA Root folder run:
@@ -37,6 +37,9 @@ For Windows:
 
 For Ubuntu:
 - python3 module_7.py
+
+waypoint tracking
+![](Course1FinalProject/controller_output/Waypoints_and_Solution_path.png)
 
 throttle output 
 
