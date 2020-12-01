@@ -39,6 +39,7 @@ For Ubuntu:
 - python3 module_7.py
 
 waypoint tracking
+
 ![](Course1FinalProject/controller_output/Waypoints_and_Solution_path.png)
 
 throttle output 
